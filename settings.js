@@ -21,8 +21,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94761192103'] //ur owner number
-global.ownernomer = "94761192103" //ur owner number2
+global.owner = ['94728074430'] //ur owner number
+global.ownernomer = "94738074430" //ur owner number2
 global.ownername = "📌 𝚄𝙳𝙰𝚅𝙸𝙽 " //ur owner name
 global.ytname = "YT: UW TECH SHOW" //ur yt chanel name
 global.socialm = "Insta: UDavin Wijesundara" //ur github or insta name
@@ -30,9 +30,9 @@ global.location = "Srilanka" //ur location
 
 //new
 global.botname = "𝘜𝘞 𝘛𝘌𝘊𝘏 𝘚𝘏𝘖𝘞 𝘞𝘏𝘈𝘛𝘚𝘈𝘗𝘗 𝘉𝘖𝘛 𝘝 1.0"
-global.ownernumber = '94761192103'
+global.ownernumber = '94728074430'
 global.ownername = '📌 𝚄𝙳𝙰𝚅𝙸𝙽'
-global.ownerNumber = ["94761192103@s.whatsapp.net"]
+global.ownerNumber = ["94728074430@s.whatsapp.net"]
 global.ownerweb = "https://www.youtube.com/@uwtechshow"
 global.websitex = "https://www.youtube.com/@uwtechshow"
 global.wagc = "https://chat.whatsapp.com/Jx2dvOAzNaO3vm5bwVglyC"
@@ -41,7 +41,7 @@ global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/udavinw/UW-WHATSAPP-BOT-V1.0' //script link
 global.packname = "Sticker By UW TECH SHOW BOT"
 global.author = "📌 𝚄𝙳𝙰𝚅𝙸𝙽\n\n"
-global.creator = "94761192103@s.whatsapp.net"
+global.creator = "94728074430@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
