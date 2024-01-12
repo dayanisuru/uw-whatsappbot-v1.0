@@ -79,7 +79,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/uwtechshow-official/uw-whatsappbot-v1.0git
+git clone https://github.com/dayanisuru/uw-whatsappbot-v1.0git
 cd uw-whatsappbot-v1.0
 
 npm start
